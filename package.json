@@ -52,7 +52,7 @@
     "webpack-cli": "^4.7.0"
   },
   "dependencies": {
-    "globalthis": "^1.0.2",
+    "globalthis": "^1.0.3",
     "qj": "~2.0.0"
   }
 }
